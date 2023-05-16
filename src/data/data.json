@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Greenhills Condominium",
+    "location": "San Juan City",
+    "price": "PHP 9 million",
+    "image": "https://via.placeholder.com/500x300.png?text=Image+Not+Available",
+    "description": "Greenhills Condominium is a high-rise residential tower located in San Juan City. The project offers spacious units with breathtaking views of the city skyline. The building has amenities such as a swimming pool, gym, and function rooms for the residents to enjoy.",
+    "category": "condo"
+  },
+  {
+    "id": 2,
+    "name": "Magallanes Townhomes",
+    "location": "Makati City",
+    "price": "PHP 15 million",
+    "image": "https://via.placeholder.com/500x300.png?text=Image+Not+Available",
+    "description": "Magallanes Townhomes is a development of modern townhouses located in Makati City. The project offers spacious and well-designed units with top-quality finishes. It is conveniently located near schools, malls, hospitals, and other essential establishments.",
+    "category": "townhouse"
+  },
+  {
+    "id": 3,
+    "name": "Southcrest Condominium",
+    "location": "Alabang",
+    "price": "PHP 8 million",
+    "image": "https://via.placeholder.com/500x300.png?text=Image+Not+Available",
+    "description": "Southcrest Condominium is a mid-rise residential development located in Alabang. It offers well-designed units with modern amenities, including a swimming pool, fitness center, and function rooms. The project is conveniently located near shopping centers, hospitals, and schools.",
+    "category": "condo"
+  },
+  {
+    "id": 4,
+    "name": "Avida Towers",
+    "location": "Cebu City",
+    "price": "PHP 4.5 million",
+    "image": "https://via.placeholder.com/500x300.png?text=Image+Not+Available",
+    "description": "Avida Towers is a high-rise residential development located in Cebu City. The project offers affordable and comfortable units with modern amenities, including a swimming pool, gym, and function rooms. It is conveniently located near malls, schools, and hospitals.",
+    "category": "condo"
+  },
+  {
+    "id": 5,
+    "name": "Acacia Estates",
+    "location": "Taguig City",
+    "price": "PHP 12 million",
+    "image": "https://via.placeholder.com/500x300.png?text=Image+Not+Available",
+    "description": "Acacia Estates is a master-planned residential community located in Taguig City. It offers spacious and well-designed units with top-quality finishes and modern amenities, including a swimming pool, fitness center, and function rooms. The project is conveniently located near business districts, schools, and hospitals.",
+    "category": "condo"
+  },
+  {
+    "id": 6,
+    "name": "Ayala Alabang House & Lot",
+    "location": "Alabang",
+    "price": "PHP 50 million",
+    "image": "https://via.placeholder.com/500x300.png?text=Image+Not+Available",
+    "description": "Ayala Alabang House and Lot is a luxury residential property located in the exclusive village of Ayala Alabang. It offers spacious and well",
+    "category": "condo"
+  },
+  {
+    "id": 7,
+    "name": "Portofino Heights",
+    "location": "Las Piñas City",
+    "price": "PHP 25 million",
+    "image": "https://via.placeholder.com/500x300.png?text=Image+Not+Available",
+    "description": "Portofino Heights is an Italian-inspired residential community located in Las Piñas City. It offers luxury homes with spacious layouts, high ceilings, and top-quality finishes. The community features a clubhouse, swimming pool, and playground for the residents to enjoy.",
+    "category": "house and lot"
+  },
+  {
+    "id": 8,
+    "name": "Forbes Park House and Lot",
+    "location": "Makati City",
+    "price": "PHP 500 million",
+    "image": "https://via.placeholder.com/500x300.png?text=Image+Not+Available",
+    "description": "Forbes Park is an exclusive residential enclave located in Makati City. It is known for its luxurious homes, lush greenery, and tight security. The properties in Forbes Park are some of the most expensive in the country, with some reaching billions of pesos in value.",
+    "category": "house and lot"
+  },
+  {
+    "id": 9,
+    "name": "One Pacific Residence",
+    "location": "Mactan, Cebu",
+    "price": "PHP 20 million",
+    "image": "https://via.placeholder.com/500x300.png?text=Image+Not+Available",
+    "description": "One Pacific Residence is a luxury beachfront condominium development located in Mactan, Cebu. It offers spacious units with breathtaking views of the ocean, as well as top-quality amenities such as a swimming pool, fitness center, and private beach access.",
+    "category": "condo"
+  },
+  {
+    "id": 10,
+    "name": "Rockwell Center",
+    "location": "Makati City",
+    "price": "PHP 25 million",
+    "image": "https://via.placeholder.com/500x300.png?text=Image+Not+Available",
+    "description": "Rockwell Center is a mixed-use development located in the heart of Makati City. It offers a range of residential options, from luxury high-rise condominiums to spacious townhouses. The development also features a mall, office buildings, and a park for the residents to enjoy.",
+    "category": "mixed-use"
+  }
+]
